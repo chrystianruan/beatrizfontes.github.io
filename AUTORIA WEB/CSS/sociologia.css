@@ -1,0 +1,12 @@
+body{
+    background-image: url(../Imagens/background.jpg);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+h1{
+   color: white;
+   font-size: 20pt;
+   font-family: Times;
+   text-align: center;
+}
